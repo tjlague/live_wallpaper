@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">live_wallpaper</string>
+    <string name="system_time_service">System Time</string>
+    <string name="glow_service">Glow</string>
+    <string name="color_shift_service">Color Shift</string>
+    <string name="bitmap_service">Bitmap</string>
+</resources>
